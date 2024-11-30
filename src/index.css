@@ -1,0 +1,31 @@
+@import "./assets/base.css";
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+   @font-face {
+      font-family: "Orkney";
+      src: url("./assets/fonts/Orkney-Regular.woff2") format("woff2"),
+         url("./assets/fonts/Orkney-Regular.woff") format("woff");
+      font-style: normal;
+      font-weight: 400;
+   }
+
+   @font-face {
+      font-family: "Orkney";
+      src: url("./assets/fonts/Orkney-Medium.woff2") format("woff2"),
+         url("./assets/fonts/Orkney-Medium.woff") format("woff");
+      font-style: normal;
+      font-weight: 500;
+   }
+
+   @font-face {
+      font-family: "Orkney";
+      src: url("./assets/fonts/Orkney-Bold.woff2") format("woff2"),
+         url("./assets/fonts/Orkney-Bold.woff") format("woff");
+      font-style: normal;
+      font-weight: 700;
+   }
+}
