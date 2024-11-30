@@ -25,7 +25,7 @@ A simple frontend application for task management. You can add, edit, delete and
 
 ## 📂 Project structure
 
-📦 src/ \n
+📦 src/
 ┣ 📂 assets/
 ┃ ┣ 📂 fonts/
 ┃ ┣ 📂 icons/
@@ -105,7 +105,5 @@ A simple frontend application for task management. You can add, edit, delete and
 2. Clone the repository
     git clone https://github.com/korniienkodd21/Simple-Todo-List-Application.git
 3. Go to the project folder
-4. Install the dependencies
-    yarn install or npm install
-5. Run the project
-    yarn run dev or npm run dev
+4. Install the dependencies (yarn install) or (npm install)
+5. Run the project (yarn run dev) or (npm run dev)
