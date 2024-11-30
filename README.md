@@ -25,7 +25,7 @@ A simple frontend application for task management. You can add, edit, delete and
 
 ## 📂 Project structure
 
-📦 src/
+📦 src/ \n
 ┣ 📂 assets/
 ┃ ┣ 📂 fonts/
 ┃ ┣ 📂 icons/
